@@ -1,16 +1,20 @@
 //Feito a correção de erros com a ajuda do: https://copilot.microsoft.com/
 
-      <div>
-        <h1>Bem-vindo à Página Rota 1</h1>
-        <p>Esta é uma página criada dentro do diretório "app/rota1".</p>
-      </div>
+    <nav>
+      <ul>
+        <li><a href="/rota1">Página Rota 1</a></li>
+        <li><a href="/rota2">Página Rota 2</a></li>
+        <li><a href="/rota3">Página Rota 3</a></li>
+      </ul>
+    </nav>
 
-      <div>
-        <h1>Bem-vindo à Página Rota 2</h1>
-        <p>Esta é uma página criada dentro do diretório "app/rota2".</p>
-      </div>
+    <div>
+      <Menu />
+     
+    </div>
 
-      <div>
-        <h1>Bem-vindo à Página Rota 3</h1>
-        <p>Esta é uma página criada dentro do diretório "app/rota3".</p>
-      </div>
+    <Layout>
+      <h1>Bem-vindo à Página Rota 1</h1>
+      <p>Esta é uma página criada dentro do diretório "app/rota1".</p>
+    </Layout>
+ 
