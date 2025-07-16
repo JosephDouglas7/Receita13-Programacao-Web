@@ -1,0 +1,24 @@
+export default function Home(){
+
+    return (
+
+        <div>
+
+            <div>Menu principal</div>
+
+            <div>
+
+                <h1>
+
+                    Bem Vindo a rota2
+
+                </h1> 
+
+
+            </div>
+
+        </div>       
+
+    )
+
+}
